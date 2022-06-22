@@ -40,3 +40,5 @@ If you do…
     ![XcodeProjects](xcode-run.png)
 11. Then click the play button to build.
 12. Once it’s built, in your text editor where you have the project open, run either `expo run:ios` (if using expo template) or `react-native run-ios` (if using `react-native init`). This will start a metro server that the native app will be linked to.
+
+(You may need to re-run pod install)
